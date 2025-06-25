@@ -7,9 +7,9 @@ ________________________
 Basic Stopwatch Using HTML, CSS & JS.
 ________________________
 
-- start button begins the clock
-- pause button pauses the clock
-- reset button resets the clock to it's default state of 0hr: min:0sec
+- start button begins the timer
+- pause button pauses the timer
+- reset button resets the timer to it's default state of 0hr: min:0sec
 
 
 
