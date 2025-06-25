@@ -12,4 +12,5 @@ ________________________
 - reset button resets the clock to it's default state of 0hr: min:0sec
 
 
-Thank you for viewing this.
+
+Thank you for taking your time to view this.
